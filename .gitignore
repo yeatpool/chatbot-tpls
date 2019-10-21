@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+*.iws
+*.idea
+~$*.xls*
+~$*.ppt*
+~$*.doc*
+tmp/
+
